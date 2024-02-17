@@ -5,7 +5,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMjhkNWVjODEtZTZlNS00ZTgwLTk0OWYtYmMxYTg0N2E2ZTMyIiwidGVuYW50X2lkIjoiNDBiODI3NmYxOTljMzRhOTUzZWU5MzJjMzk2NGY4MDRiMWM2YzIyM2EwM2VhNzBhYjE1ZTY5OTIyNWE1MzQwOCIsImludGVybmFsX3NlY3JldCI6ImZkMzY4NDM5LTg0NDgtNDgzYS04Yzg2LTgwZTFhYjc4NDA1YSJ9.pE63jF9sSQOnT3heM68UPatpqDuK2GBsSEYoz6aSmJE"
+  url      = "prisma..accerate url after attach database to prisma"
   // url = "postgresql://p47ingh:CXvKlf08NBPn@ep-bold-block-a5iakeba.us-east-2.aws.neon.tech/neondb?sslmode=require"
 }
 
