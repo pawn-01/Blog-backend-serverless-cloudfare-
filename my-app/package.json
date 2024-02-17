@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"dev":"wrangler dev src/index.ts","deploy":"wrangler deploy --minify src/index.ts"},"dependencies":{"@tsndr/cloudflare-worker-jwt":"^2.4.5","hono":"^4.0.2","jsonwebtoken":"^9.0.2"},"devDependencies":{"@cloudflare/workers-types":"^4.20240208.0","@types/jsonwebtoken":"^9.0.5","wrangler":"^3.25.0"}}
