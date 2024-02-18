@@ -6,7 +6,7 @@ generator client {
 datasource db {
   provider = "postgresql"
   url      = "prisma..accerate url after attach database to prisma"
-  // url = "postgresql://p47ingh:CXvKlf08NBPn@ep-bold-block-a5iakeba.us-east-2.aws.neon.tech/neondb?sslmode=require"
+  // url = "postgresql.url"
 }
 
 model user{
